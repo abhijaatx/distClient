@@ -96,7 +96,7 @@ const QuizPage = () => {
                 <div className="fixed inset-0 bg-white/90 z-50 flex flex-col items-center justify-center backdrop-blur-sm">
                     <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-black mb-4"></div>
                     <p className="text-gray-600 font-medium uppercase tracking-widest">Generating Quiz</p>
-                    <p className="text-xs text-gray-400 mt-2 font-mono">Consulting Kaggle GPU...</p>
+                    <p className="text-xs text-gray-400 mt-2 font-mono">This may take upto a minute...</p>
                 </div>
             )}
 
